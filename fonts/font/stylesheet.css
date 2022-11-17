@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Land Rover OT4';
+    src: url('LandRoverOT4-Light.eot');
+    src: local('LandRoverOT4-Light'),
+        url('LandRoverOT4-Light.eot?#iefix') format('embedded-opentype'),
+        url('LandRoverOT4-Light.woff2') format('woff2'),
+        url('LandRoverOT4-Light.woff') format('woff'),
+        url('LandRoverOT4-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Land Rover OT4';
+    src: url('LandRoverOT4-Medium.eot');
+    src: local('LandRoverOT4-Medium'),
+        url('LandRoverOT4-Medium.eot?#iefix') format('embedded-opentype'),
+        url('LandRoverOT4-Medium.woff2') format('woff2'),
+        url('LandRoverOT4-Medium.woff') format('woff'),
+        url('LandRoverOT4-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Land Rover OT4';
+    src: url('LandRoverOT4-Bold.eot');
+    src: local('LandRoverOT4-Bold'),
+        url('LandRoverOT4-Bold.eot?#iefix') format('embedded-opentype'),
+        url('LandRoverOT4-Bold.woff2') format('woff2'),
+        url('LandRoverOT4-Bold.woff') format('woff'),
+        url('LandRoverOT4-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
